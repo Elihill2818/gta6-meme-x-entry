@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/Elihill2818/gta6-meme-x-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/Elihill2818/gta6-meme-x-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-Original GTA 6 launch-week meme posted on X promoting make.fun: a Leonida Airways boarding pass for Flight GTA-6 (LSX Los Santos Sep 17, 2013 → VCI Vice City Nov 19, 2026), delayed 4,811 days across Fall 2025 & May 2026, trip type "Called in Sick", itemized $2,026.00 fare paid in full by my AI agent winning real cash bounties on make.fun during the layover.
+Original GTA 6 launch-week meme posted on X promoting make.fun: a 5-star wanted Leonida County Sheriff booking report for "Leonida Man" (GTA cover-art mugshot cradling a baby alligator in pink 80s aviators, Sep 17, 2013 → Nov 19, 2026, 4,811 days loitering, fake sick days for Fall '25 & May '26, 247 GB on neighbor's Wi-Fi, $79.99 bail posted in full by my AI agent winning real cash bounties on make.fun).
 
 ## Run it
 
